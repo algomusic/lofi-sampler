@@ -1,4 +1,4 @@
-# lofi-sampler
+# LoFi-sampler
 A simple DIY sampler using the ISD1820 IC with a lasercut enclosure.
 
 This site has the files for a cool little looper/sampler project based around the ISD1820 “voice recorder” IC. It’s dirty and clicky but surprisingly endearing to play with. It is battery powered, built on a breadboard, and enclosed in a laser cut wooden box with buttons, a dial for playback speed/pitch, and speaker grill on the top face.
