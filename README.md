@@ -5,4 +5,4 @@ This site has the files for a cool little looper/sampler project based around th
 
 There are many similar designs for using this IC as a simple sampler, this is another. The laser cut enclosure is a bit more novel and affords portability, making the instrument handheld for recording and playing wherever you like.
 
-This design was developed for building in DIY electronic music workshops as part of an Australian Research Council-funded [research project](https://www.regionalelectronicmusicaustralia.com/) on experimental electronic music in regional Australia.
+This design was developed for building as part of DIY electronic music workshops conducted for an Australian Research Council-funded [research project](https://www.regionalelectronicmusicaustralia.com/) on experimental electronic music in regional Australia.
